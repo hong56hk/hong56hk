@@ -1,1 +1,1 @@
-I am lazy and thus want programs to do my jobs.
+Laziness is the driving force for me to create more programs.
